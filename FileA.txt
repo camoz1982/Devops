@@ -1,1 +1,1 @@
-"This is file A created by Kamil" 
+"This is file A created by Kamil - GitHub" 
